@@ -1,6 +1,7 @@
 # Diwali Sales Data Analysis
 
 This repository contains a Jupyter Notebook analyzing sales data from the Diwali season. The analysis provides insights into customer demographics, purchasing behavior, and regional contributions to sales, helping businesses understand their target audience better.
+https://colab.research.google.com/drive/1_Oi7cGE7iAiLT4_3WYCTLhmmlDpwm2Sw?usp=sharing
 
 ## Dataset Overview
 
